@@ -1,6 +1,4 @@
-#Summary
-
-## Tabla de Contenidos
+# Tabla de Contenidos
 
 * [Conceptos básicos](book/conceptos básicos/conceptos-básicos.md)
 * [Conceptos fundamentales](book/conceptos fundamentales/README.md)

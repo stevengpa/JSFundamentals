@@ -1,0 +1,9 @@
+{
+  "plugins": ["markdown"],
+  "extends": "airbnb/base",
+  "rules": {
+    "no-console": 0,
+    "strict": 0,
+    "no-undef": 0
+  }
+}
